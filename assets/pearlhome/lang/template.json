@@ -1,0 +1,15 @@
+{
+    "text.pearlhome.teleport.success.home": "",
+    "text.pearlhome.teleport.success.spawn": "",
+  
+    "text.pearlhome.teleport.warn.grounded": "",
+    "text.pearlhome.teleport.warn.in_water": "",
+    "text.pearlhome.teleport.warn.in_lava": "",
+    "text.pearlhome.teleport.warn.burning": "",
+    "text.pearlhome.teleport.warn.sneaking": "",
+  
+    "text.pearlhome.misc.setspawn_info": "",
+    "text.pearlhome.misc.setspawn": "",
+  
+    "gui.pearlhome.portable_enderchest": ""
+  }
